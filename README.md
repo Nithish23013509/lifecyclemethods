@@ -88,6 +88,10 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
+<img width="1917" height="962" alt="Screenshot 2026-07-21 092754" src="https://github.com/user-attachments/assets/31942693-cbf3-4f7e-9899-be7e9624e896" />
+<img width="1917" height="1015" alt="Screenshot 2026-07-21 092803" src="https://github.com/user-attachments/assets/19f5248e-8d80-4a39-a7ee-5c1533b983de" />
+<img width="1916" height="955" alt="Screenshot 2026-07-23 114806" src="https://github.com/user-attachments/assets/5150744b-fba8-424a-b0b8-c02015b854e8" />
+<img width="1911" height="968" alt="Screenshot 2026-07-23 114843" src="https://github.com/user-attachments/assets/d052c38a-3b0f-4a92-b82d-0b253bbd2a8c" />
 
 
 
