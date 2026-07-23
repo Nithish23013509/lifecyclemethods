@@ -27,7 +27,7 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 ```
-/*
+
 Program to print the text “Hello World”.
 Developed by:NITHISH S
 Registeration Number :212223220070
@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
         toast.show();
     }
 }
-*/
+
 ```
 
 ## OUTPUT
